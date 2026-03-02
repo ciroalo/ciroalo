@@ -1,5 +1,11 @@
-# 💫 About Me:
-I am an avid software engineer with a Bachelor's in Computer Engineering.<br>Passionate about building reliable, scalable systems and evolving into a Software Architect role.<br><br>Outside of coding I like to read, play sports, logic puzzles like killer sudokus and creative activities.
+## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+I'm **Ciro**, an avid software engineer with a Bachelor's in Computer Engineering.<br>Passionate about building reliable, scalable systems and evolving into a Software Architect role.<br><br>Outside of coding I like to read, play sports, logic puzzles like killer sudokus and creative activities.
+
+---
+
+**Some stuff I built:**
+- [**Leetcode-vault**](https://github.com/ciroalo/Leetcode-vault) - A storage for all the Leetcode problems I have solved along their explanations.
+- [**mod-conversor**](https://github.com/ciroalo/mod-conversor) - A conversor of one or multiple `.MOD` files to `.mp4` files.
 
 
 # 💻 Tech Stack:
