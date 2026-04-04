@@ -9,9 +9,9 @@ I'm **Ciro**, a software engineer with a Bachelor's in Computer Engineering.<br>
 - [**SafeID**](https://github.com/ciroalo/safeid) - An offline tool (also made it macOS app) that converts ID photos into a watermarked PDF to help safely share sensitive documentation. Built as a professional-style project with a full architecture process: project-charter, PRD, ADRs, domain modeling, hexagonal architecture and automated tests.
 
 
-# 💻 Tech Stack:
+## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ciroalo&theme=dark&hide_border=false)<br/>
 
